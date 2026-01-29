@@ -26,7 +26,7 @@ I am also working on improving my **English skills** and can **type quickly usin
 
 ## 👨‍💻Projects
 
-- **Bank Project (C++):** A simple banking system demonstrating OOP concepts. [Check it out here](https://github.com/aledenhawi/BankProject)  
+- **Bank Project (C++):** A simple banking system demonstrating OOP concepts. [Check it out here](https://github.com/aledenhawi/Bank-Project)  
 - **Simple Calculator(C#):** Simple Windows Forms application.  [Check it out here](https://github.com/aledenhawi/CalculatorSimpleProject) 
 - **Tic Tac Toe (C#):** Simple Windows Forms application. "I'll Uploaded Later"
 
