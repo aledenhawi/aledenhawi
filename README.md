@@ -9,9 +9,16 @@
 
 I am passionate about programming and continuously improving my skills. I have a solid foundation in **C++** (both FP & OOP) and have solved **over 200 programming problems** to strengthen my coding abilities.  
 
-Currently, I am expanding my knowledge in **database design and development using SQL Server**, as well as **.NET and C#**, focusing on **Windows Forms applications**. I enjoy building projects that challenge my problem-solving and logical thinking skills.  
+ And I have already 
+🔹 Built strong programming foundations step by step
+🔹 Solved hundreds of problems and projects
+🔹 Learned clean code and Divide & Conquer thinking
+🔹 Mastered OOP concepts and applied them in C#
+🔹 Designed and queried databases professionally
+🔹 Connected C# applications to databases using ADO.NET
+🔹 Understood architecture, layers, responsibilities, and data flow
 
-I am also working on improving my **English skills** and can **type quickly using all 10 fingers**.
+I am also working on improving my **English skills** as long as I am learning programming. 
 
 ---
 
