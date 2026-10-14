@@ -26,8 +26,8 @@ I am also working on improving my **English skills** as long as I am learning pr
 
 - **Programming Languages:** C++, C#  
 - **Database:** SQL Server (Database Design & Queries)  
-- **Frameworks & Tools:** .NET, Windows Forms  
-- **Other:** Problem Solving, Fast Typing, Continuous Learning  
+- **Frameworks & Tools:** .NET, Windows Forms
+- **Other:** Problem Solving, Fast Typing, Continuous Learning , Windows Services  
 
 ---
 
